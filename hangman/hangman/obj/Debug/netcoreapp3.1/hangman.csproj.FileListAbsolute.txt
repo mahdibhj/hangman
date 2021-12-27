@@ -1,0 +1,13 @@
+C:\Users\mbelhadj\source\repos\hangman\hangman\bin\Debug\netcoreapp3.1\hangman.exe
+C:\Users\mbelhadj\source\repos\hangman\hangman\bin\Debug\netcoreapp3.1\hangman.deps.json
+C:\Users\mbelhadj\source\repos\hangman\hangman\bin\Debug\netcoreapp3.1\hangman.runtimeconfig.json
+C:\Users\mbelhadj\source\repos\hangman\hangman\bin\Debug\netcoreapp3.1\hangman.runtimeconfig.dev.json
+C:\Users\mbelhadj\source\repos\hangman\hangman\bin\Debug\netcoreapp3.1\hangman.dll
+C:\Users\mbelhadj\source\repos\hangman\hangman\bin\Debug\netcoreapp3.1\hangman.pdb
+C:\Users\mbelhadj\source\repos\hangman\hangman\obj\Debug\netcoreapp3.1\hangman.csprojAssemblyReference.cache
+C:\Users\mbelhadj\source\repos\hangman\hangman\obj\Debug\netcoreapp3.1\hangman.AssemblyInfoInputs.cache
+C:\Users\mbelhadj\source\repos\hangman\hangman\obj\Debug\netcoreapp3.1\hangman.AssemblyInfo.cs
+C:\Users\mbelhadj\source\repos\hangman\hangman\obj\Debug\netcoreapp3.1\hangman.csproj.CoreCompileInputs.cache
+C:\Users\mbelhadj\source\repos\hangman\hangman\obj\Debug\netcoreapp3.1\hangman.dll
+C:\Users\mbelhadj\source\repos\hangman\hangman\obj\Debug\netcoreapp3.1\hangman.pdb
+C:\Users\mbelhadj\source\repos\hangman\hangman\obj\Debug\netcoreapp3.1\hangman.genruntimeconfig.cache
